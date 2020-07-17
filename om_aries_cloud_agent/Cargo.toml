@@ -7,5 +7,6 @@ edition = "2018"
 [lib]
 name="om_aries_cloud_agent"
 path="src/lib.rs"
+edition="2018"
 
 [dependencies]
